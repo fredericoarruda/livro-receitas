@@ -6,3 +6,4 @@ Olá! Bem vindo ao nosso livro de receitas!
 
 - Strogonoff de frango
 - Pavê
+- Bolo de cenoura
